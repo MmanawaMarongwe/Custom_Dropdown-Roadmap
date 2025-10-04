@@ -1,0 +1,13 @@
+button {
+  padding: 16px 32px;
+  background-color: paleturquoise;
+  border-radius: 5px;
+}
+
+.hidden-list {
+  display: none;
+}
+
+.dropdown-icon {
+  margin-left: 20px;
+}
