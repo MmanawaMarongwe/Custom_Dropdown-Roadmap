@@ -11,3 +11,20 @@ button {
 .dropdown-icon {
   margin-left: 20px;
 }
+
+ul {
+  list-style-type: none;
+
+  padding: 16px;
+}
+
+li {
+  width: 200px;
+  padding: 16px 16px 16px 40px;
+  border: 1px solid darkgray;
+  background-color: lightgray;
+}
+
+.hidden {
+  display: none;
+}
